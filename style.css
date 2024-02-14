@@ -1,0 +1,56 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.navbar{
+    width: 40%;
+    height: 80px;
+    margin-left: 100px
+    
+  
+    
+
+}
+.nav-element{
+    display: flex;
+    font-weight: bold;
+}
+.navbar2{
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+    width: 80%;
+    height: 110px;
+    margin-left: 100px;
+    justify-content: space-between
+}
+.nav2-element{
+    display: flex;
+    text-align: center;
+
+}
+.main-content{
+    padding-top: 30px;
+    display: flex;
+    width: 80%;
+    height: 800;
+    margin-left: 60px;
+    font-weight: 900;
+
+    justify-content: space-evenly;
+}
+.main-content2{
+    padding-top: 30px;
+    display: flex;
+    width: 80%;
+    height: 800;
+    margin-left: 37px;
+    font-weight: 900;
+
+    justify-content: space-evenly;
+}
+.lol{
+    width: 100px;
+
+}
